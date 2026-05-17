@@ -2,10 +2,10 @@ import { Skill } from '@/types';
 
 // TODO: personalise — update with your actual tech stack
 export const skills: Skill[] = [
+  { name: 'Java', icon: 'JV', category: 'language' },
   { name: 'TypeScript', icon: 'TS', category: 'language' },
   { name: 'Python', icon: 'PY', category: 'language' },
-  { name: 'Go', icon: 'GO', category: 'language' },
-  { name: 'Rust', icon: 'RS', category: 'language' },
+  { name: 'C++', icon: 'C++', category: 'language' },
   { name: 'SQL', icon: 'SQ', category: 'language' },
 
   { name: 'React', icon: '⚛', category: 'framework' },
